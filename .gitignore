@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Config files for the project.
+cfg.py
+mobilegb.cfg
